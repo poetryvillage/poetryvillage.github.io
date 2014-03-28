@@ -14,7 +14,7 @@
 }
 
 div.main, div.leftBar{
-  background-color: rgba(199,237,204,0.5);
+  background-color: #faf9de;
   border: 1px solid #ccc;
   font-family: Consolas, "Liberation Mono", Courier, monospace;
   line-height: 1.01em;
