@@ -72,6 +72,7 @@ body>*:last-child {
 
 p, blockquote, ul, ol, dl, table, pre {
   margin: 0.8em 0;
+  line-height: 1.5em;
 }
 
 /* HEADERS
