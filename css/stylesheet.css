@@ -8,9 +8,9 @@
 @media screen and (min-width:683px) and (max-device-width:1400px)
 {
   .main{float:right;
-  width:89%;}
-  .leftBar{float:left;
-  width:10%;}
+  width:87%;}
+  .leftBar{float:right;
+  width:12%;}
 }
 
 div.main, div.leftBar{
